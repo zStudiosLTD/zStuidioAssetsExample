@@ -11170,8 +11170,8 @@
           }
         },
         "landscape": {
-          "x": 493.91,
-          "y": 162.97,
+          "x": 493,
+          "y": 162,
           "rotation": 0,
           "scaleX": 1,
           "scaleY": 1,
@@ -11185,7 +11185,8 @@
             "y": 0
           }
         },
-        "playOnStart": true
+        "playOnStart": false,
+        "looping": true
       }
     ],
     "type": "Container",
@@ -11208,15 +11209,13 @@
             "rotation": 6,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 10.01,
             "pivotY": 7.87,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 6,
+            "skewY": 6
           },
           "landscape": {
             "x": 66,
@@ -11224,16 +11223,15 @@
             "rotation": 6,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 10.01,
             "pivotY": 7.87,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 6,
+            "skewY": 6
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11249,15 +11247,13 @@
             "rotation": 5.1,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 13.67,
             "pivotY": 15.88,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 5.1,
+            "skewY": 5.1
           },
           "landscape": {
             "x": 100,
@@ -11265,16 +11261,15 @@
             "rotation": 5.1,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 13.67,
             "pivotY": 15.88,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 5.1,
+            "skewY": 5.1
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11290,15 +11285,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 33,
@@ -11306,16 +11299,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11331,15 +11323,13 @@
             "rotation": 6.25,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 53.57,
             "pivotY": 66.05,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 6.25,
+            "skewY": 6.25
           },
           "landscape": {
             "x": 58,
@@ -11347,16 +11337,15 @@
             "rotation": 6.25,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 53.57,
             "pivotY": 66.05,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 6.25,
+            "skewY": 6.25
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11372,15 +11361,13 @@
             "rotation": 6.06,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 12.56,
             "pivotY": 10.34,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 6.06,
+            "skewY": 6.06
           },
           "landscape": {
             "x": 73,
@@ -11388,16 +11375,15 @@
             "rotation": 6.06,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 12.56,
             "pivotY": 10.34,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 6.06,
+            "skewY": 6.06
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11413,15 +11399,13 @@
             "rotation": 5.62,
             "scaleX": -0.92,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 14.8,
             "pivotY": 11.11,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 5.62,
+            "skewY": 5.62
           },
           "landscape": {
             "x": 143,
@@ -11429,16 +11413,15 @@
             "rotation": 5.62,
             "scaleX": -0.92,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 14.8,
             "pivotY": 11.11,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 5.62,
+            "skewY": 5.62
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11454,15 +11437,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 29,
@@ -11470,16 +11451,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11495,15 +11475,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 17.65,
             "pivotY": 8.71,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 74,
@@ -11511,16 +11489,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 17.65,
             "pivotY": 8.71,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11536,15 +11513,13 @@
             "rotation": 1.03,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 10.01,
             "pivotY": 7.87,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 1.03,
+            "skewY": 1.03
           },
           "landscape": {
             "x": 36,
@@ -11552,16 +11527,15 @@
             "rotation": 1.03,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 10.01,
             "pivotY": 7.87,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 1.03,
+            "skewY": 1.03
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11577,15 +11551,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 13.72,
             "pivotY": 15.6,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 6,
@@ -11593,16 +11565,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 13.72,
             "pivotY": 15.6,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11618,15 +11589,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 14.8,
             "pivotY": 11.11,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 0,
@@ -11634,16 +11603,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 14.8,
             "pivotY": 11.11,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11659,15 +11627,13 @@
             "rotation": 0.58,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 7.59,
             "pivotY": 10.41,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0.58,
+            "skewY": 0.58
           },
           "landscape": {
             "x": 29,
@@ -11675,16 +11641,15 @@
             "rotation": 0.58,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 7.59,
             "pivotY": 10.41,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0.58,
+            "skewY": 0.58
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11700,15 +11665,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 13.58,
             "pivotY": 7.81,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 35,
@@ -11716,16 +11679,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 13.58,
             "pivotY": 7.81,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11741,15 +11703,13 @@
             "rotation": 0.58,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 7.59,
             "pivotY": 10.41,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0.58,
+            "skewY": 0.58
           },
           "landscape": {
             "x": 78,
@@ -11757,16 +11717,15 @@
             "rotation": 0.58,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 7.59,
             "pivotY": 10.41,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0.58,
+            "skewY": 0.58
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -11782,15 +11741,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 18.09,
             "pivotY": 8.71,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 23,
@@ -11798,16 +11755,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 18.09,
             "pivotY": 8.71,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         }
       ],
       "type": "animation",
@@ -11908,7 +11864,8 @@
               "x": 0,
               "y": 0
             }
-          }
+          },
+          "playOnStart": true
         },
         {
           "type": "animation",
@@ -11935,8 +11892,8 @@
             }
           },
           "landscape": {
-            "x": 27.06,
-            "y": 12.89,
+            "x": 27,
+            "y": 12,
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
@@ -11949,7 +11906,8 @@
               "x": 0,
               "y": 0
             }
-          }
+          },
+          "playOnStart": true
         },
         {
           "type": "animation",
@@ -11990,7 +11948,8 @@
               "x": 0,
               "y": 0
             }
-          }
+          },
+          "playOnStart": true
         }
       ],
       "type": "asset",
@@ -12030,15 +11989,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 0,
@@ -12046,16 +12003,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         },
         {
           "type": "asset",
@@ -12071,15 +12027,13 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
           },
           "landscape": {
             "x": 2,
@@ -12087,16 +12041,15 @@
             "rotation": 0,
             "scaleX": 1,
             "scaleY": 1,
-            "alpha": 1,
             "pivotX": 0,
             "pivotY": 0,
-            "visible": true,
+            "alpha": 1,
             "isAnchored": false,
-            "anchorLocalPercentage": {
-              "x": 0,
-              "y": 0
-            }
-          }
+            "visible": true,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
         }
       ],
       "type": "animation",
@@ -12233,5 +12186,6 @@
   "fps": 60,
   "cuePoints": {},
   "atlas": false,
-  "stageColor": 3621201
+  "stageColor": 3621201,
+  "exportFormat": "png"
 }
